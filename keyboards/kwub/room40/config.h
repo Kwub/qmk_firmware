@@ -23,7 +23,7 @@
 #define PRODUCT_ID   0x0003
 #define DEVICE_VER   0x0001
 #define MANUFACTURER Kwub
-#define PRODUCT      Room40
+#define PRODUCT      Room 40
 
 /* key matrix size */
 #define MATRIX_ROWS  4
