@@ -54,6 +54,8 @@
 /* Locking resynchronize hack */
 #define LOCKING_RESYNC_ENABLE
 
+#define TAPPING_TERM 200
+
 #ifdef RGB_DI_PIN
 #    define RGBLIGHT_ANIMATIONS
 #    define RGBLED_NUM        0
