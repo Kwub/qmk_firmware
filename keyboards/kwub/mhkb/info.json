@@ -1,0 +1,12 @@
+{
+    "keyboard_name": "MHKB",
+    "manufacturer": "Kwub",
+    "url": "https://github.com/Kwub/mhkb/",
+    "maintainer": "Kwub",
+    "usb": {
+        "vid": "0x6B77",
+        "pid": "0x0007",
+        "device_version": "0.0.1"
+    },
+    "debounce": 5
+}
